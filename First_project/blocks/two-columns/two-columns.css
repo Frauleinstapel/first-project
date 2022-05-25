@@ -1,0 +1,10 @@
+.two-columns {
+    min-height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    position: relative;
+    padding-top: 100px;
+    
+  }
