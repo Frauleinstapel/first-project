@@ -47,6 +47,8 @@
 @import url(../First_project/blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../First_project/blocks/khan/__buy-link/khan__buy-link.css);
 @import url(../First_project/blocks/kaufman/kaufman.css);
+@import url(../First_project/blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../First_project/blocks/kaufman/__triangle-pic/kaufman__triangle-pic.css);
 @import url(../First_project/blocks/techniques/techniques.css);
 @import url(../First_project/blocks/cards/cards.css);
 @import url(../First_project/blocks/cards/__item/cards__item.css);
@@ -69,3 +71,4 @@
 @import url(../First_project/blocks/footer/__columns/_content/footer__columns_content_info.css);
 @import url(../First_project/blocks/footer/__columns/_content/footer__columns_content_social.css);
 @import url(../First_project/blocks/oakley/oakley.css);
+@import url(../First_project/blocks/rotation/rotation.css);

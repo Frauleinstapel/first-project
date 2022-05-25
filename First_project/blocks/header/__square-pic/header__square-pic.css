@@ -5,6 +5,8 @@
     position: absolute;
     right: 0px;
     top:64px;
+    animation: rotation 20s linear infinite;
+    overflow: hidden;
   }
 
   
